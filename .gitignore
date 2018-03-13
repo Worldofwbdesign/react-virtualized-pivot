@@ -28,6 +28,3 @@ node_modules
 
 # Ignore mac files
 .DS_Store
-
-# Build files
-dist
